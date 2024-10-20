@@ -17,7 +17,7 @@ namespace TestMod.Drops
             }
             if(npc.type == NPCID.ChaosElemental)
             {
-                npcLoot.Add(ItemDropRule.Common(ItemType<ChaoticBone>(), 1,1,2 ));
+                npcLoot.Add(ItemDropRule.Common(ItemType<ChaoticBone>(), 1,2,6 ));
             }
 
         }

@@ -16,7 +16,7 @@ namespace TestMod.Projectiles
             Projectile.DamageType = DamageClass.Ranged;
             Projectile.width = 16;
             Projectile.height = 16;
-            Projectile.aiStyle = 1;
+            Projectile.aiStyle = 0;
             Projectile.friendly = true;
             Projectile.hostile = false;
             Projectile.penetrate = 10;
@@ -71,5 +71,16 @@ namespace TestMod.Projectiles
            
 
     }
+       public override void OnHitNPC(NPC target, NPC.HitInfo hit, int damageDone)
+        {
+			target.AddBuff(BuffID.Bleeding, 240);
+            target.AddBuff(BuffID.Ichor,240);
+            target.AddBuff(BuffID.Electrified,240);
+            target.AddBuff(BuffID.Poisoned,240);
+            target.AddBuff(BuffID.Venom,240);
+            target.AddBuff(BuffID.OnFire,240);
+            target.AddBuff(BuffID.CursedInferno,240);
+            target.AddBuff(BuffID.Frozen,240);
+        }
 }
 }

@@ -35,10 +35,21 @@ Items: {
 		DisplayName: Vampire Fang
 		Tooltip: ""
 	}
+
+	ChaoticBone: {
+		DisplayName: Chaotic Bone
+		Tooltip: ""
+	}
+
+	ChaosBullet: {
+		DisplayName: Chaos Bullet
+		Tooltip: ""
+	}
 }
 
 Projectiles: {
 	TestProjectile.DisplayName: Test Projectile
 	LeechBulletProjectile.DisplayName: Leech Bullet Projectile
 	MirrorSparkBulletProjectile.DisplayName: Mirror Spark Bullet Projectile
+	ChaosBulletProjectile.DisplayName: Chaos Bullet Projectile
 }

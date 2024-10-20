@@ -40,7 +40,9 @@ namespace TestMod.Items.Weapons.Ammo
         {
             CreateRecipe(50)
                 .AddIngredient<VampireFang>()
-                .AddIngredient(ItemID.ChlorophyteBullet, 50)
+                .AddIngredient(ItemID.MoonlordBullet, 100)
+                .AddIngredient(ItemID.Nanites, 50)
+                .AddIngredient(ItemID.EmptyBullet, 100)
                 .AddTile(TileID.Anvils)
                 .Register();
         }
