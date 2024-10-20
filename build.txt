@@ -1,3 +1,3 @@
 displayName = NotPractical's Fancy Ammo
 author = NotPractical
-version = 0.1
+version = 1.0
