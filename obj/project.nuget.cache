@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I5dm6OyTkIQUoUziU1/de4IHLeH6z6co1TDKCr0/n7qXH2nf/s2+olBYehOHHkYMLU4+iy6rgVmh4zyyPO6E8g==",
+  "success": true,
+  "projectFilePath": "/home/ross/.local/share/Terraria/tModLoader/ModSources/TestMod/TestMod.csproj",
+  "expectedPackageFiles": [
+    "/home/ross/.nuget/packages/tmodloader.codeassist/0.1.5/tmodloader.codeassist.0.1.5.nupkg.sha512",
+    "/home/ross/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

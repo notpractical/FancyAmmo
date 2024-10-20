@@ -1,0 +1,44 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	TestSword: {
+		DisplayName: Test Sword
+		Tooltip:
+			'''
+			Template of an item
+			Replacing this tooltip is duty 
+			It's snowing on Mt.Fuji
+			'''
+	}
+
+	SearBullet: {
+		DisplayName: Sear Bullet
+		Tooltip: ""
+	}
+
+	TestGun: {
+		DisplayName: Test Gun
+		Tooltip: ""
+	}
+
+	MirrorSparkBullet: {
+		DisplayName: Mirror Spark Bullet
+		Tooltip: ""
+	}
+
+	LeechBullet: {
+		DisplayName: Leech Bullet
+		Tooltip: ""
+	}
+
+	VampireFang: {
+		DisplayName: Vampire Fang
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	TestProjectile.DisplayName: Test Projectile
+	LeechBulletProjectile.DisplayName: Leech Bullet Projectile
+	MirrorSparkBulletProjectile.DisplayName: Mirror Spark Bullet Projectile
+}
