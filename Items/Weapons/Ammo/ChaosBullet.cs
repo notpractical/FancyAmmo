@@ -8,7 +8,7 @@ using TestMod.Items.Weapons.Ammo;
 namespace TestMod.Items.Weapons.Ammo
 {
 
-    internal class MirrorSparkBullet : ModItem
+    internal class ChaosBullet : ModItem
     {
         public override void SetStaticDefaults()
         {
@@ -28,7 +28,7 @@ namespace TestMod.Items.Weapons.Ammo
             Item.consumable = true;
 
             Item.ammo = AmmoID.Bullet;
-            Item.shoot = ModContent.ProjectileType<MirrorSparkBulletProjectile>();
+            Item.shoot = ModContent.ProjectileType<ChaosBulletProjectile>();
             Item.shootSpeed = 40;
 
         }

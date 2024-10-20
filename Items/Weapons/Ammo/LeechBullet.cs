@@ -34,7 +34,7 @@ namespace TestMod.Items.Weapons.Ammo
             Item.ammo = AmmoID.Bullet;
             Item.shoot = ModContent.ProjectileType<LeechBulletProjectile>();
             Item.shootSpeed = 1;
-
+            
         }
         public override void AddRecipes()
         {

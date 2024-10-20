@@ -15,6 +15,10 @@ namespace TestMod.Drops
             {
                 npcLoot.Add(ItemDropRule.Common(ItemType<VampireFang>(), 1,1,2));
             }
+            if(npc.type == NPCID.ChaosElemental)
+            {
+                npcLoot.Add(ItemDropRule.Common(ItemType<ChaoticBone>(), 1,1,2 ));
+            }
 
         }
     }

@@ -8,7 +8,7 @@ using TestMod.Items.Weapons.Ammo;
 
 namespace TestMod.Projectiles
 {
-    public class MirrorSparkBulletProjectile : ModProjectile
+    public class ChaosBulletProjectile : ModProjectile
     {
         
         public override void SetDefaults()
