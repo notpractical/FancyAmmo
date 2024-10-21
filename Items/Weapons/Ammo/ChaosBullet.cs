@@ -1,12 +1,12 @@
 using Terraria.ID;
 using Terraria.ModLoader;
 using Terraria.GameContent.Creative;
-using TestMod.Items.Weapons;
-using TestMod.Projectiles;
-using TestMod.Items.Weapons.Ammo;
-using TestMod.Items.Materials;
+using NotPracticalFancyAmmo.Items.Weapons;
+using NotPracticalFancyAmmo.Projectiles;
+using NotPracticalFancyAmmo.Items.Weapons.Ammo;
+using NotPracticalFancyAmmo.Items.Materials;
 
-namespace TestMod.Items.Weapons.Ammo
+namespace NotPracticalFancyAmmo.Items.Weapons.Ammo
 {
 
     internal class ChaosBullet : ModItem

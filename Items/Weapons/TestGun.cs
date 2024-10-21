@@ -4,13 +4,13 @@ using Terraria.ModLoader;
 using Terraria.Audio;
 using Microsoft.Xna.Framework;
 using Terraria.GameContent.Creative;
-using TestMod.Items.Weapons.Ammo;
-using TestMod.Items.Materials;
+using NotPracticalFancyAmmo.Items.Weapons.Ammo;
+using NotPracticalFancyAmmo.Items.Materials;
 using System.CommandLine;
 using rail;
 using Terraria.Enums;
 
-namespace TestMod.Items.Weapons
+namespace NotPracticalFancyAmmo.Items.Weapons
 {
     internal class TestGun : ModItem
 

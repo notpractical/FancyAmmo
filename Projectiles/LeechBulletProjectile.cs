@@ -5,11 +5,11 @@ using Terraria.ModLoader;
 using Microsoft.Xna.Framework;
 using Terraria.Audio;
 using Terraria.GameContent.Creative;
-using TestMod.Items.Weapons.Ammo;
+using NotPracticalFancyAmmo.Items.Weapons.Ammo;
 using static Terraria.ModLoader.ModContent;
 
 
-namespace TestMod.Projectiles
+namespace NotPracticalFancyAmmo.Projectiles
 {
     public class LeechBulletProjectile : ModProjectile
     {

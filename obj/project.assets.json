@@ -36,11 +36,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ross/.local/share/Terraria/tModLoader/ModSources/TestMod/TestMod.csproj",
-      "projectName": "TestMod",
-      "projectPath": "/home/ross/.local/share/Terraria/tModLoader/ModSources/TestMod/TestMod.csproj",
+      "projectUniqueName": "/home/ross/.local/share/Terraria/tModLoader/ModSources/NotPracticalFancyAmmo/NotPracticalFancyAmmo.csproj",
+      "projectName": "NotPracticalFancyAmmo",
+      "projectPath": "/home/ross/.local/share/Terraria/tModLoader/ModSources/NotPracticalFancyAmmo/NotPracticalFancyAmmo.csproj",
       "packagesPath": "/home/ross/.nuget/packages/",
-      "outputPath": "/home/ross/.local/share/Terraria/tModLoader/ModSources/TestMod/obj/",
+      "outputPath": "/home/ross/.local/share/Terraria/tModLoader/ModSources/NotPracticalFancyAmmo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ross/.nuget/NuGet/NuGet.Config"

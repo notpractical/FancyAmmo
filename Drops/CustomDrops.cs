@@ -3,9 +3,9 @@ using Terraria.GameContent.ItemDropRules;
 using Terraria.GameContent.ObjectInteractions;
 using Terraria.ID;
 using Terraria.ModLoader;
-using TestMod.Items.Materials;
+using NotPracticalFancyAmmo.Items.Materials;
 using static Terraria.ModLoader.ModContent;
-namespace TestMod.Drops
+namespace NotPracticalFancyAmmo.Drops
 {
     public class CustomDrops : GlobalNPC
     {

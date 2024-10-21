@@ -8,7 +8,7 @@ using Terraria.ModLoader;
 using Microsoft.Xna.Framework;
 using Terraria.GameContent.Creative;
 
-namespace TestMod.Items.Materials
+namespace NotPracticalFancyAmmo.Items.Materials
 {
     public class ChaoticBone : ModItem
     {

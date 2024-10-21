@@ -4,9 +4,9 @@ using Terraria.ID;
 using Terraria.ModLoader;
 using Microsoft.Xna.Framework;
 using Terraria.Audio;
-using TestMod.Items.Weapons.Ammo;
+using NotPracticalFancyAmmo.Items.Weapons.Ammo;
 
-namespace TestMod.Projectiles
+namespace NotPracticalFancyAmmo.Projectiles
 {
     public class ChaosBulletProjectile : ModProjectile
     {
