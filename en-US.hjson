@@ -1,0 +1,35 @@
+Mods: {
+	NotPracticalFancyAmmo: {
+		Items: {
+			ChaoticBone: {
+				DisplayName: Chaotic Bone
+				Tooltip: ""
+			}
+
+			VampireFang: {
+				DisplayName: Vampire Fang
+				Tooltip: ""
+			}
+
+			ChaosBullet: {
+				DisplayName: Chaos Bullet
+				Tooltip: ""
+			}
+
+			LeechBullet: {
+				DisplayName: Leech Bullet
+				Tooltip: ""
+			}
+
+			TestGun: {
+				DisplayName: Test Gun
+				Tooltip: ""
+			}
+		}
+
+		Projectiles: {
+			ChaosBulletProjectile.DisplayName: Chaos Bullet Projectile
+			LeechBulletProjectile.DisplayName: Leech Bullet Projectile
+		}
+	}
+}
